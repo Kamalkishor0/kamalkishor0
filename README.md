@@ -11,14 +11,12 @@
 - 💪🏼 Building - Recruitizer and Knight
 ---
 
-<img align="right" alt="GIF" height="170px" src="https://media.giphy.com/media/J5B1Y8QZnzXXbLQIBu/giphy.gif" />
-
 
 ## Tech Stack:
 
 <p>
   <div>
-    <img src="https://skillicons.dev/icons?i=nextjs,typescript,postgress,mongodb,express" />
+    <img src="https://skillicons.dev/icons?i=nextjs,typescript,postgresql,mongodb,express" />
   </div>
 </p>
 
@@ -119,7 +117,11 @@
 
 ![](https://github-readme-activity-graph.vercel.app/graph?username=kamalkishor0&bg_color=1B1B27&line=BF91F3&point=39BDAE&area=true&area_color=BF91F3&title_color=70A5FD&color=39BDAE) 
 ---
-
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kamalkishor0/kamalkishor0/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/kamalkishor0/kamalkishor0/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/kamalkishor0/kamalkishor0/output/pacman-contribution-graph.svg">
+</picture>
 
 <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="1000">
 
